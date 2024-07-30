@@ -1,4 +1,4 @@
-module basics
+module golang-sandbox
 
 go 1.17
 
